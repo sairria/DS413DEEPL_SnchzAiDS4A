@@ -1,0 +1,28 @@
+# Book settings
+title: DS 314 Deep Learning
+author: The Jupyter Book Community
+logo: logo.png
+
+execute:
+  execute_notebooks: force
+
+latex:
+  latex_documents:
+    targetname: book.tex
+
+bibtex_bibfiles:
+  - references.bib
+
+repository:
+  url: https://github.com/sairria/DS413DEEPL_SnchzAiDS4A.git
+  path_to_book: docs
+  branch: master
+
+html:
+  theme:
+    name: sphinx_book_theme
+    options:
+      navigation_depth: 4
+      collapse_navigation: true
+  css:
+    - custom.css   

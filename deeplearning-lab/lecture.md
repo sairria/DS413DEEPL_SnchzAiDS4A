@@ -10,6 +10,9 @@ kernelspec:
   display_name: Python 3
   language: python
   name: python3
+title: "Lecture Notes"
+cover: "lecture.png" 
+
 ---
 
 # Notebooks with MyST Markdown
@@ -51,3 +54,6 @@ If you have a markdown file and you'd like to quickly add YAML metadata to it, s
 ```
 jupyter-book myst init path/to/markdownfile.md
 ```
+
+
+[def]: lecture.png
