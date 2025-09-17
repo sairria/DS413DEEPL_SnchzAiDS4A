@@ -6,7 +6,7 @@
 
 ---
 
-![cover-image](cover-photo.jpg)
+![cover-image](images/cover.png)
 
 ---
 
