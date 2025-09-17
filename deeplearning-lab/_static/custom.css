@@ -5,6 +5,19 @@
 /* Import elegant fonts */
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500&family=Lora&family=Fira+Code&display=swap');
 
+/* Cover / top page section */
+.cover, .page, body {
+    background-color: #1a3b2d; /* dark jungle green */
+    color: #ffffff; /* make text readable */
+}
+
+/* Optional: if you have a hero image as cover */
+.cover img {
+    opacity: 0.85; /* slightly transparent */
+    mix-blend-mode: multiply;
+}
+
+
 /* General body */
 body {
   background: #fdfcfb; /* airy off-white */
